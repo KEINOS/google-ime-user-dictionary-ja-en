@@ -1,3 +1,7 @@
+Automatically exported from [http://code.google.com/p/google-ime-user-dictionary-ja-en](http://code.google.com/p/google-ime-user-dictionary-ja-en) on Dec 11, 2009.
+
+---
+
 これは2009年に、[「Google日本語入力のヘルプフォーラム」に投稿された要望](https://productforums.google.com/forum/?hl=ja#!category-topic/ime-ja/LSB5bd2VHYA)により始まった「[Google日本語入力の和英辞書作成プロジェクト](https://code.google.com/archive/p/google-ime-user-dictionary-ja-en/)」をGoogleCodeのサービス廃止に伴い、公式に引き継いだプロジェクトのアーカイブです。
 
 主に「カタカナ語英語辞書」の代替辞書作成を目的としています。(EDICT使用)
@@ -27,9 +31,12 @@ Jim Breen氏の日本語辞書プロジェクト"EDICT"により作成された�
 
 ## 一括ダウンロード
 下記は2016/12/23時点のアーカイブです。
+
 [https://github.com/KEINOS/google-ime-user-dictionary-ja-en/archive/master.zip](https://github.com/KEINOS/google-ime-user-dictionary-ja-en/archive/master.zip)
 
-最新のソースはGoogleDrive
+最新のソースはGoogleDriveをご覧ください。
+
+[https://goo.gl/VnfFLZ](https://goo.gl/VnfFLZ)
 
 ※辞書の追加方法は下記「インストール方法」を参照
 
@@ -43,7 +50,7 @@ Jim Breen氏の日本語辞書プロジェクト"EDICT"により作成された�
 
 　要望が多ければ「＊」を頭に付けて単語を入力すると変換する辞書も用意したいと思います。
 
-例）＊らじお　→　radio
+    例）＊らじお　→　radio
 
 ### インストール方法
 ダウンロードしたTSVファイルを新規辞書としてインポートします。
